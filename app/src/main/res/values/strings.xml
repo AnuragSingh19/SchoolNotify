@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SchoolNotify</string>
+    <string name="error_content_description">Error is coming</string>
+    <string name="success_content_description">Success</string>
+</resources>
